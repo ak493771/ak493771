@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ABhishek kumar. CurrenTly I'm enrolled in Master of Technology programme in Netaji subhas university of Technology in the domain of Bioinformatics.
+- 👋 Hi, I’m ABhishek kumar. Currently I'm enrolled in Master of Technology programme in Netaji subhas university of Technology in the domain of Bioinformatics.
 - 👀 I’m interested in learning Machine learning and web development. 
 
 <!---
